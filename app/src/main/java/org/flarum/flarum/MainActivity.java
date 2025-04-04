@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements AdvancedWebView.L
     public AdvancedWebView webView;
     private ProgressBar mPbar = null;
 
-    private static final String  url = "https://discuss.flarum.org/";
+    private static final String  url = "https://www.3t.lol/";
 	String webURL, webTitle ;
 
 
